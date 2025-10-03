@@ -1,3 +1,4 @@
 # color-flipper-js-project
 It is Color Flipper project.Build using plain Javascript.
-https://github.com/ruhi9214/color-flipper-js-project/blob/372806826228479126a17e2e34059dced06cb129/Color_Flipper%20(1).png
+<img width="1868" height="1002" alt="image" src="https://github.com/user-attachments/assets/46ec1deb-ad0b-4464-baed-bb6448d9bef9" />
+
